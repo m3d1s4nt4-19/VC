@@ -74,7 +74,7 @@ A través de la captura de vídeo de la webcam y mediante un bucle se puede obte
 
 - Al final, se muestra una ventana con la cámara mostrando la región más clara y oscura.
 
-![El pendiente es la zona más brillante](pendienteBrillante.png)
+![El pendiente es la zona más brillante](Pendiente brillante.png)
 
 ### Tarea 6 - Propuesta de popart
 
