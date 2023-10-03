@@ -74,6 +74,8 @@ A través de la captura de vídeo de la webcam y mediante un bucle se puede obte
 
 - Al final, se muestra una ventana con la cámara mostrando la región más clara y oscura.
 
+![El pendiente es la zona más brillante](pendienteBrillante.png)
+
 ### Tarea 6 - Propuesta de popart
 
 - Primero se reduce hasta la mitad la resolución para ocupar menos espacio en pantalla, y posteriormente, crearemos un espacio del doble de tamaño que esta cámara reducida en ambas direcciones. Cada parte tiene un filtro distinto. De arriba izquierda a abajo derecha:
@@ -95,7 +97,7 @@ A través de la captura de vídeo de la webcam y mediante un bucle se puede obte
   ```
 En este caso, el valor del plano azul corresponde a casi la inversión del verde. El plano verde obtiene el rojo potenciado y el plano rojo obtiene una ligera disminución del azul. Así, como resultado se ve un fondo azul y la piel en tonos amarillos y rojos.
 
-![Pop art](popArt.PNG)
+![Pop art](popArt.png)
 
 Figura 6: Pop art
 
