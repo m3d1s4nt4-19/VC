@@ -12,7 +12,7 @@
 
 - Si la casilla debe pintarse de blanco, se calcula el espacio con los índices actuales y se dibuja. Al final, la imagen se muestra en escala de grises y se comprueba que se ve un tablero de ajedrez
 
-![Tablero de ajedrez](tableroAjedrez.PNG)
+![Tablero de ajedrez](tableroAjedrez.png)
 
 Figura 1: Tablero de ajedrez generado
 
@@ -41,7 +41,7 @@ cv2.circle(imagen_mondrian, (200, 750), 50, (200, 0, 255), -1)
 
 - `plt.show()` muestra con Matplotlib la imagen con colores y formas.
 
-![Imagen de estilo Mondrian](mondrian.PNG)
+![Imagen de estilo Mondrian](mondrian.png)
 
 Figura 2: Imagen de estilo Mondrian
 
